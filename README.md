@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi 👋, I'm Ayo
+
+Software Developer 🚀
+
+I am a full-stack developer and i currently work as a backend developer. I write my projects with Typescript and React and on the backend, C# and .Net.
+
+🌍 I'm based in Lagos, Nigeria.
+📧 Contact me at babafemiayodele@gmail.com
+
+Skills
 
 <!--
 **joules19/joules19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
