@@ -1,4 +1,4 @@
-<H2>Hi 👋, I'm Ayo</H2>
+<H2>Hi 👋, I'm Ayo.</H2>
 
 <H4>Software Developer 🚀</H4>
 
