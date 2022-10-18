@@ -4,7 +4,7 @@
 
 I am a full-stack developer and i currently work as a backend developer. I write my projects with Typescript and React and on the backend, C# and .Net.
 
-🌍 I'm based in Lagos, Nigeria.
+🌍 I'm based in Lagos, Nigeria. <BR>
 📧 Contact me at babafemiayodele@gmail.com
 
 <H4>Skills</H4>
