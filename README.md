@@ -6,8 +6,6 @@ I am a full-stack developer and i currently work as a backend developer. I write
 
 🌍 I'm based in Lagos, Nigeria. <BR>
 📧 Contact me at babafemiayodele@gmail.com
-<HR style="width: 30%">
-  
 
 <H4>Skills</H4>
 
