@@ -1,12 +1,13 @@
 <H2>Hi 👋, I'm Ayo.</H2>
 
 <H4>Software Developer 🚀</H4>
-<HR>
 
 I am a full-stack developer and i currently work as a backend developer. I write my projects with Typescript and React and on the backend, C# and .Net.
 
 🌍 I'm based in Lagos, Nigeria. <BR>
 📧 Contact me at babafemiayodele@gmail.com
+<HR>
+  
 
 <H4>Skills</H4>
 
