@@ -2,7 +2,7 @@
 
 <H4>Software Developer 🚀</H4>
 
-I am a full-stack developer and i currently work as a Fullstack developer. I write my projects with Typescript and React and on the backend, C# and .Net.
+I am a full-stack developer and i currently work as a Fullstack developer. I write my projects with Typescript and React and on the backend, C# and Python.
 
 🌍 I'm based in Lagos, Nigeria. <BR>
 📧 Contact me at babafemiayodele@gmail.com
