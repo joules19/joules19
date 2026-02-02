@@ -4,7 +4,7 @@
 
 I currently work as a Fullstack developer. I write my projects with Typescript and React and on the backend, C# and Python.
 
-🌍 I'm based in Lagos, Nigeria. <BR>
+🌍 I'm based in Harlow, England. <BR>
 📧 Contact me at babafemiayodele@gmail.com
 
 <H4>Skills</H4>
